@@ -1,0 +1,10 @@
+streamlit
+PIL
+pyttsx3
+os
+pytesseract 
+cv2
+numpy
+google.generativeai
+langchain_google_genai
+logging
